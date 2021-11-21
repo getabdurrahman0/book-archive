@@ -2,7 +2,7 @@
 # **Book Archive**
 
 <a  href="https://book-archive0.netlify.app/">
-<img  width="100%"  height="100%"  src="https://thumbs2.imgbox.com/31/4b/OrKx3aEU_t.png"/>
+<img  width="100%"  height="100%"  src="https://images2.imgbox.com/31/4b/OrKx3aEU_o.png"/>
 </a>
 
 ## About & Features
